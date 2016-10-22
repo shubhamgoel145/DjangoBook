@@ -1,0 +1,2 @@
+# DjangoBook
+Following the DjangoBook
